@@ -1,2 +1,3 @@
 # YOLOv5_Object_Detection_with_RealSense_D455_Depth_Sensing
-This project uses the YOLOv5 object detection algorithm along with the RealSense D455 depth sensing camera to detect objects and determine their depth
+
+This project uses the YOLOv5 object detection algorithm along with the RealSense D455 depth sensing camera to detect objects and determine their depth. The YOLOv5 algorithm is a state-of-the-art object detection model that is capable of detecting and classifying a wide range of objects with high accuracy. The RealSense D455 is a depth sensing camera that provides depth information for each pixel in the image, allowing for accurate measurements of the distance to each detected object. By combining these two technologies, this project enables accurate and efficient object detection and depth measurement in a wide range of applications. The code is written in Python and is available on GitHub for anyone to use and modify.
