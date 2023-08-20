@@ -39,3 +39,4 @@ This repository aims to integrate the RealSense D455 Depth Sensing Camera with t
 ## Demo
 
 ![Demo of this project](view.gif)
+sample video [here](https://youtu.be/FH7up4knf6w)
